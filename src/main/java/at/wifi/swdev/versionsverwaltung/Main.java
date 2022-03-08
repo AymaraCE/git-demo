@@ -16,6 +16,8 @@ public class Main {
     public static void main(String[] args) {
         
         System.out.println("Das ist ein Test");
+        System.out.println("Hier gibt es noch eine Änderung");
+        System.out.println("Und noch eine");
         
     }
     
