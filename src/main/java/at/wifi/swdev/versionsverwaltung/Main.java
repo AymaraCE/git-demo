@@ -18,6 +18,7 @@ public class Main {
         System.out.println("Das ist ein Test");
         System.out.println("Hier gibt es noch eine Änderung");
         System.out.println("Und noch eine");
+        System.out.println("Hallo von GitHub!");
         
     }
     
